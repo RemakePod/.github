@@ -7,3 +7,5 @@ We have a few upcoming projects we hope to share with you soon!
 ClassicPod is our main piece of software, that aims to make a replica of an iPod Classic operating system. It will be accessible via a web browser on PC.
 ### ClassicPod OS
 ClassicPod OS is an application that runs our ClassicPod software. It will be available for Windows, macOS and Linux.
+### MobilePod
+MobilePod will be based on ClassicPod, but will run on mobile devices, with mobile optimised software. It will be available for Android devices.
